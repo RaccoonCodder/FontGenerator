@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+.idea
+FONT
+*.sh
+*.ini
+README.md
+.vscode
+*.png
+*jpg
+*.gif
+*pyc
+*.obj
+baseline_checkpoint
