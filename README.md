@@ -129,3 +129,4 @@ python 3.7.x
 https://github.com/kaonashi-tyc/zi2zi<br>
 https://github.com/periannath/neural-fonts<br>
 https://github.com/yjjng11/Neural-fonts-webapp<br>
+https://github.com/2SOOY/19-12-FONT

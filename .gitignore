@@ -4,7 +4,7 @@ package-lock.json
 FONT
 *.sh
 *.ini
-README.md
+README_raw.md
 .vscode
 *.png
 *jpg
